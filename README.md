@@ -1,0 +1,1 @@
+# ASPCoreAngular2Shopping
